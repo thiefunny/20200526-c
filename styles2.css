@@ -7,11 +7,3 @@ a {
     display: inline-block;
     padding: 0 1rem 2rem 0
 }
-
-.parent {
-    width: 200px
-}
-
-div :not(.parent) {
-    float: left
-}
